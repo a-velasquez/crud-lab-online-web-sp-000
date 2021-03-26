@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 class RestaurantInput extends Component {
   state = {
-    text: "",
+    text: " ",
   };
 
   handleChange = (event) => {
